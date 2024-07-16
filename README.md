@@ -2,7 +2,7 @@
 Siéntete libre de explorar algunos de mis proyectos-
 
 ## 🧐 Acerca de mi
-- 👀 Soy un apasionado desarrollador web con experiencia en tecnologías como Java, Spring Boot y PostgreSQL. 
+- 👀 Soy un apasionado desarrollador web construyendo mi experiencia en tecnologías como Java, Spring Boot y PostgreSQL. 
 - 🌱 Me encanta aprender y compartir conocimientos con la comunidad.
 - 💞️ Me gusta colaborar en proyectos con las demás personas, aumentando así mi conocimiento.
 - 📫 Cóntactame si tienes algún proyecto colaborativo.
