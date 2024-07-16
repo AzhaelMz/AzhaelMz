@@ -1,10 +1,13 @@
-##👋 ¡Hola! Bienvenido a mi perfil soy Azhael Manzon
-- 👀 I’m interested in back end apps...
-- 🌱 I’m currently learning java, spring boot, JPA, data bases ...
-- 💞️ I’m looking to collaborate on apps developed with java...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 ¡Hola! Bienvenido a mi repositorio
+Siéntete libre de explorar algunos de mis proyectos-
+
+## 🧐 Acerca de mi
+- 👀 Soy un apasionado desarrollador web con experiencia en tecnologías como Java, Spring Boot y PostgreSQL. 
+- 🌱 Me encanta aprender y compartir conocimientos con la comunidad.
+- 💞️ Me gusta colaborar en proyectos con las demás personas, aumentando así mi conocimiento.
+- 📫 Cóntactame si tienes algún proyecto colaborativo.
+  - Linkedin: Roberto Azhael Manzon Tamayo.
+  - Correo: r.azhaelmanzon@gmail.com
 
 <!---
 AzhaelMz/AzhaelMz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
